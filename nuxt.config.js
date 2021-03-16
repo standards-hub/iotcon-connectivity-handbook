@@ -4,6 +4,6 @@ export default theme({
   docs: {
     primaryColor: '#2871A4'
   },
-  router: { base: '/Prueba-doc/' }
+  router: { base: '/iotcon-connectivity-handbook/' }
 })
 
