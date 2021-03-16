@@ -1,0 +1,10 @@
+{
+  "title": "OMP",
+  "url": "",
+  "logo": {
+    "light": "/icono_omp.jpg",
+    "dark": "/icono_omp.jpg"
+  },
+  "github": "/standards-hub/omp_github_pages",
+  "twitter": "@nuxt_js"
+}
