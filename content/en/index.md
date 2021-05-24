@@ -1,48 +1,32 @@
 ---
-title: Introduction
+title: 'PRODUCE'
 description: ''
-position: 1
-category: ''
-features:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+position: 30
+category: 'CIM Domains'
 ---
-# Insights Into Connecting Industrial IoT Assets A publication by the Open Manufacturing Platform
+## Produce
+> Handling of material that you will be buying, moving and selling. For example, product and inventory product.
+### Product v1.0
 
-## Legal Disclaimers
---------------------
+![Product Diagram](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/diagram.png)
 
-Copyright OMP 2020, All rights reserved.
-"THESE MATERIALS ARE PROVIDED "AS IS."  The parties expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. IN NO EVENT WILL THE PARTIES BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
+#### Description
+```
+* path: https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/about.jsonld
+* file name: about.jsonld
+* Field: "description"
 
-## Table of Content
---------------------
-  1. [1. Manufacturing at an Inflection Point](Manufacturing.md)
-  2. [2. Breadth and Depth](02_Breadth_and_Depth.md)
-  3. [3. Principles for a Successful Connectivity Solution](03_Principles_for_a_Successful_Connectivity_Solution.md)
-  4. [4. Types of Communication](04_Type_of_Communication.md)
-  5. [5. Implementation](05a_Implementation_ProductionAssetLevel.md)
-  6. [6. Conclusion](06_Conclusion.md)
+Extract this content and print it here:
+```
+> [Description](https://raw.githubusercontent.com/cloudinformationmodel/cloudinformationmodel/v0.1.2/src/subjectAreas/Product/about.jsonld)
 
-## Working Group Chairs, and Contributors
---------------------
-**ACKNOWLEDGMENTS**
-This document is a work product of the Open Manufacturing Platform - IoT Connectivity Working Group, chaired by Sebastian Buckel (BMW Group) and co-chaired by Dr. Veit Hammerstingl (BMW Group).
+See GitHub ![GitHub Icon](images/GitHub-Mark-32px.png)
 
-**AUTHORS**
-Open Manufacturing Platform / IoT Connectivity Working Group 
+### Product v1.1
 
-**CONTRIBUTORS**
-  * Attrey, Kapil              (Cognizant)
-  * Birn, Lukas                (Capgemini)
-  * Buckel, Sebastian 		    (BMW Group)
-  * Hammerstingl, Veit, Dr.	(BMW Group)
-  * Köpke, Alexander		    (Microsoft)
-  * Kramer, Michael		    (ZF)
-  * Krebs, Jeremy			    (Microsoft)
-  * McGrath, Daniel			(Cognizant)
-  * Muth, Manfred			    (Red Hat)
-  * Reimann, Jens	        	(Red Hat)
+> Image
+
+> Description
 
 
+<p class="flex items-center">Enjoy light and dark mode:&nbsp;<app-color-switcher class="inline-flex ml-2"></app-color-switcher></p>

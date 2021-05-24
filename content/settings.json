@@ -1,10 +1,10 @@
 {
-  "title": "OMP",
+  "title": "CIM Documentation",
   "url": "",
   "logo": {
-    "light": "/icono_omp.jpg",
-    "dark": "/icono_omp.jpg"
+    "light": "./cim-text-color.png",
+    "dark": "./cim-text-color.png"
   },
-  "github": "/standards-hub/omp_github_pages",
-  "twitter": "@nuxt_js"
+  "github": "cloudinformationmodel/documentation",
+  "twitter": "@"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "iotcon-connectivity-handbook",
+  "name": "documentation",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,14 +7,13 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "npm run build && gh-pages -d dist --repo https://github.com/standards-hub/iotcon-connectivity-handbook.git"
+    "deploy": "npm run build && gh-pages -d dist --repo https://github.com/cloudinformationmodel/documentation.git"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.10.1",
+    "@nuxt/content-theme-docs": "^0.7.1",
     "nuxt": "^2.15.2"
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
     "push-dir": "^0.4.1"
   }
 }
