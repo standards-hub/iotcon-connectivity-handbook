@@ -1,5 +1,5 @@
 {
-  "name": "documentation",
+  "name": "Generate_documentation_Nuxt",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "deploy": "npm run build && gh-pages -d dist --repo https://github.com/cloudinformationmodel/documentation.git"
+    "deploy": "npm run build && gh-pages -d dist --repo https://github.com/standards-hub/Generate_documentation_Nuxt.git"
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "^0.7.1",

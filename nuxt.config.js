@@ -4,7 +4,7 @@ export default theme({
   docs: {
     primaryColor: '#E24F55'
   },
-  router: { base: '/documentation/' },
+  router: { base: '/Generate_documentation_Nuxt/' },
   build: {
     babel:{
       plugins: [
